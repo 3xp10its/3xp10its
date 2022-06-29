@@ -9,6 +9,7 @@
 [<img src="https://img.shields.io/twitter/follow/mgdhermes?label=follow&style=social">](https://twitter.com/mgdhermes)
 
 [<img align="left" alt="Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />][facebook]
+[<img align="left" alt="spotify" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" />][spotify]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />][youtube]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
 [<img align="left" alt="Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" />][telegram]
@@ -17,6 +18,7 @@
 
 [facebook]: https://facebook.com/mgdahermes
 [twitter]: https://twitter.com/mgdhermes
+[spotify]: https://open.spotify.com/user/kmvfn282u89oqtrwn7ah9ksr1?si=3g8ZkjWyQLSVMRso4J11nQ
 [youtube]: https://youtube.com/mgdhermes
 [instagram]: https://instagram.com/
 [linkedin]: https://linkedin.com/in/
