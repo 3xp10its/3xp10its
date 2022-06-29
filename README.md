@@ -1,4 +1,5 @@
-<h1 align="center">Welcome <img src="https://github.com/3xp10its/3xp10its/blob/main/gifs/Wave.gif" height="55px" width="55px">Human</h1>
+<h1 align="center">Welcome</h1>
+
 <h2 align="center">No man ever made a great discovery without the exercise of the imagination.
 <h3 align="center">(つꈍ▽ꈍ)つ
 
