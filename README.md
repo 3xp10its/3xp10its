@@ -10,7 +10,7 @@
 <br><img src="https://gpvc.arturio.dev/3xp10its" alt="views">
 [<img src="https://img.shields.io/twitter/follow/mgdhermes?label=follow&style=social">](https://twitter.com/mgdhermes)
 
-[![3xp10its's github activity graph](https://activity-graph.herokuapp.com/graph?username=3xp10its&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/3xp10its/3xp10its/github-readme-activity-graph)
+[![3xp10its's github activity graph](https://activity-graph.herokuapp.com/graph?username=3xp10its&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/3xp10its/3xp10its)
 
 [<img align="left" alt="Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />][facebook]
 [<img align="left" alt="spotify" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" />][spotify]
