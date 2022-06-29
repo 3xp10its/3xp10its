@@ -21,7 +21,7 @@
 [facebook]: https://facebook.com/mgdahermes
 [twitter]: https://twitter.com/mgdhermes
 [spotify]: https://open.spotify.com/user/kmvfn282u89oqtrwn7ah9ksr1?si=3g8ZkjWyQLSVMRso4J11nQ
-[youtube]: https://youtube.com/mgdhermes
-[instagram]: https://instagram.com/
-[linkedin]: https://linkedin.com/in/
-[telegram]: https://t.me/
+[youtube]: https://youtube.com/
+[instagram]: https://instagram.com/in5ta3ram
+[linkedin]: https://linkedin.com/in/linked0in
+[telegram]: https://t.me/Mh08899
