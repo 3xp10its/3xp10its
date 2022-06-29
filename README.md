@@ -1,6 +1,6 @@
 <h1 align="center">Welcome</h1>
 <h3 align="center"><img src="https://github.com/3xp10its/3xp10its/blob/main/gifs/Wave.gif" height="55px" width="55px"</h3>
-<h2 align="center">No man ever made a great discovery without the exercise of the imagination</h2>
+<h2 align="center">No man ever made a great discovery without imagination</h2>
 <h3 align="center">(つꈍ▽ꈍ)つ</h3>
 
 <img src="https://github.com/3xp10its/3xp10its/blob/main/gifs/coding.gif" alt="coding ?">
