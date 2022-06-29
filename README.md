@@ -5,6 +5,8 @@
 
 [![3xp10its github stats](https://github-readme-stats.vercel.app/api?username=3xp10its&theme=dracula&show_icons=true)](https://github.com/3xp10its)
 
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3xp10its&show_icons=true&locale=en&layout=compact" alt="3xp10its" /></p>
+
 <br><img src="https://gpvc.arturio.dev/3xp10its" alt="Profile views">
 [<img src="https://img.shields.io/twitter/follow/mgdhermes?label=follow&style=social">](https://twitter.com/mgdhermes)
 
