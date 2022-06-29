@@ -1,6 +1,6 @@
-<h1 align="center">Welcome <img src="https://github.com/3xp10its/3xp10its/blob/main/gifs/Wave.gif" height="55px" width="55px">,(つꈍ▽ꈍ)つ</h1>
-<h3 align="center">No man ever made a great discovery without the exercise of the imagination.
-
+<h1 align="center">Welcome <img src="https://github.com/3xp10its/3xp10its/blob/main/gifs/Wave.gif" height="55px" width="55px">, Human</h1>
+<h2 align="center">No man ever made a great discovery without the exercise of the imagination.
+<h3 align="center">(つꈍ▽ꈍ)つ
 <img src="https://github.com/3xp10its/3xp10its/blob/main/gifs/coding.gif" alt="coding ?">
 
 [![3xp10its github stats](https://github-readme-stats.vercel.app/api?username=3xp10its&theme=dracula&show_icons=true)](https://github.com/3xp10its)
