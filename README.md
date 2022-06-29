@@ -7,9 +7,6 @@
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3xp10its&theme=dracula&show_icons=true&locale=en&layout=compact" alt="3xp10its" /></p>
 
-<br><img src="https://gpvc.arturio.dev/3xp10its" alt="views">
-[<img src="https://img.shields.io/twitter/follow/mgdhermes?label=follow&style=social">](https://twitter.com/mgdhermes)
-
 [![3xp10its's github activity graph](https://activity-graph.herokuapp.com/graph?username=3xp10its&bg_color=332c47&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/3xp10its/3xp10its)
 
 [<img align="left" alt="Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />][facebook]
@@ -19,6 +16,12 @@
 [<img align="left" alt="Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" />][telegram]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
+
+<br><img src="https://gpvc.arturio.dev/3xp10its" alt="views">
+[<img src="https://img.shields.io/twitter/follow/mgdhermes?label=follow&style=social">](https://twitter.com/mgdhermes)
+
+
+
 
 [facebook]: https://facebook.com/mgdahermes
 [twitter]: https://twitter.com/mgdhermes
