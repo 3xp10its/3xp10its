@@ -5,7 +5,7 @@
 
 [![3xp10its github stats](https://github-readme-stats.vercel.app/api?username=3xp10its&theme=dracula&show_icons=true)](https://github.com/3xp10its)
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3xp10its&theme=dracula&show_icons=true&locale=en&layout=compact" alt="3xp10its" /></p>
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3xp10its&theme=dracula&show_icons=true&locale=en&layout=compact&hide_border=true" alt="3xp10its" /></p>
 
 [![3xp10its's github activity graph](https://activity-graph.herokuapp.com/graph?username=3xp10its&bg_color=332c47&color=777777&line=ff5200&point=1adbce&area=true&hide_border=false)](https://github.com/3xp10its/3xp10its)
 
