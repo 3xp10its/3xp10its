@@ -7,7 +7,7 @@
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3xp10its&theme=dracula&show_icons=true&locale=en&layout=compact&hide_border=true" alt="3xp10its" /></p>
 
-[![3xp10its's github activity graph](https://activity-graph.herokuapp.com/graph?username=3xp10its&bg_color=332c47&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/3xp10its/3xp10its)
+[![3xp10its's github activity graph](https://activity-graph.herokuapp.com/graph?username=3xp10its&bg_color=282a36&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/3xp10its/3xp10its)
 
 [<img align="left" alt="Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />][facebook]
 [<img align="left" alt="spotify" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174872.png" />][spotify]
