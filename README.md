@@ -13,11 +13,11 @@
 ### Social:
 
 [<img align="left" alt="Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />][facebook]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670147.png" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670151.png" />][twitter]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />][youtube]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
 [<img align="left" alt="Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" />][telegram]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn-icons.flaticon.com/png/512/4138/premium/4138124.png" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
 [facebook]: https://facebook.com/mgdahermes
 [twitter]: https://twitter.com/mgdhermes
